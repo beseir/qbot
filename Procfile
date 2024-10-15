@@ -1,1 +1,1 @@
-worker: dotnet run
+web: dotnet QBot.dll
