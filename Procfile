@@ -1,1 +1,1 @@
-web: dotnet QBot.dll
+web: dotnet out/QBot.dll
